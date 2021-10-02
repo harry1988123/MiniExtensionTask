@@ -4,6 +4,8 @@
 ![alt text](https://github.com/harry1988123/MiniExtensionTask/blob/master/4.PNG?raw=true)
 ![alt text](https://github.com/harry1988123/MiniExtensionTask/blob/master/5.PNG?raw=true)
 
+[live WebSite](https://6158175a4dde92c49bf017f6--condescending-hopper-ec9347.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
