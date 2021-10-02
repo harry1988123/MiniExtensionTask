@@ -1,3 +1,7 @@
+![alt text](https://github.com/harry1988123/MiniExtensionTask/blob/master/1.PNG?raw=true)
+![alt text](https://github.com/harry1988123/MiniExtensionTask/blob/master/2.PNG?raw=true)
+![alt text](https://github.com/harry1988123/MiniExtensionTask/blob/master/3.PNG?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
